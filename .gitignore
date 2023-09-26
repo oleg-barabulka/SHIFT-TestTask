@@ -1,0 +1,11 @@
+**/.idea
+**/.gradle
+**/build/
+**/log/
+**/out/
+*.iml
+*.log
+/target
+/HELP.md
+*.pdf
+*.txt
